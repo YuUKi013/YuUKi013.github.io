@@ -1,0 +1,231 @@
+body {
+    color: #333333;
+    margin: 0;
+    text-align: center;
+}
+header{
+    background-color: #333333;
+    display: flex;
+    justify-content: end;
+    padding: 20px;
+}
+header ul li{
+    display: inline-block;
+    padding: 0 20px;
+}
+header ul li a{
+    color: #c9c9c9;
+    font-size: 20px;
+}
+header ul li a b{
+    color: rgb(255, 255, 255);
+    font-size:  25px;
+}
+.top{
+    background-image: url(image-Z/Haikei.png);
+    background-size: cover;
+    padding: 200px 0;
+}
+.top h1{
+    font-size: 70px;
+    letter-spacing: 5px;
+}
+.about{
+    background-color: #F6F6F6;
+    padding: 100px;
+}
+h2{
+    margin: 0;
+}
+hr{
+    margin-bottom: 50px;
+    height: 5px;
+    width: 100px;
+    border: none;
+}
+.blue-line{
+    background-color: #7BC3D1;
+}
+.about table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.hab{
+    background-color: rgb(70, 134, 155);
+}
+.W{
+    color: #96bfe8;
+}
+.card{
+    background-color: #dbdbdb;
+}
+.tate{
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+.asa{
+    margin: 10px 10px 10px 30px;
+    background-color:rgb(226, 248, 248);
+}
+.huin{
+    margin: auto;
+    background-color:rgb(243, 205, 205);
+}
+.kahun{
+    margin: 10px;
+    background-color: #fcf9d1;
+}
+.Bro{
+    background-color: rgb(225, 254, 197);
+    margin: 20px 130px;
+    padding: 10px;
+    text-align: center;
+}
+.yokoa{
+    display: flex;
+    margin: auto;
+
+}
+.rabi{
+    margin: auto auto 5px auto ;
+    padding: 10px;
+    background-color: #3c86cf;
+    color: #dbdbdb;
+    text-align: center;
+}
+.kuti{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #924b4b;
+    color: #dbdbdb;
+}
+.yokob{
+    display: flex;
+    margin: auto;
+}
+.kumo{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #351c1c;
+    color: #dbdbdb;
+    text-align: center;
+}
+.PC{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #dcb1f9;
+}
+.yokoc{
+    display: flex;
+    margin: auto;
+}
+.vp{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #dbffa5;
+}
+.Rvon{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #efd4a1;
+}
+.yokod{
+    display: flex;
+    margin: auto;
+}
+.sps{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #241986;
+    color: #dbdbdb;
+}
+.mati{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #e5cdb1;
+}
+.mon{
+    text-align: center;
+    margin: auto;
+    background-color: #ffecd5;
+}
+.Ps{
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(70, 134, 155);
+    color: #dbdbdb;
+    font-size: 20px;
+}
+.Ds{
+    background-color: rgb(193, 193, 193);
+    padding: 10px;
+    margin: auto;
+}
+.Dsa{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    background-color: #7f7f7f;
+    color: #dbdbdb;
+}
+.iro{
+    display: flex;
+}
+.sik{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #fffcd5;
+}
+.sd{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #d9e6ff;
+}
+.kino{
+    display: flex;
+}
+.kin{
+    margin: auto auto 5px auto;
+    padding: 10px;
+    background-color: #fefff2;
+}
+.Ana{
+    text-align: center;
+    background-color: #7eb8d7;
+    color: #2e2e2e;
+    margin: 6px;
+    padding: 10px;
+}
+.km{
+    margin: auto;
+    background-color: #000000;
+    color: #dbdbdb;
+    padding: 10px;
+}
+.kuma{
+    margin: auto auto 5px auto;
+    background-color: #b8b8b8;
+    padding: 10px;
+}
+.ball{
+    display: flex;
+}
+.balla{
+    margin: auto;
+}
+.ballb{
+    margin: auto;
+}
+.Ball{
+    margin: auto;
+    background-color: #9e9e9e;
+    padding: 10px;
+}
+.othe{
+    background-color: #cfcfcf;
+    margin: 5px;
+    padding: 5px;
+}
